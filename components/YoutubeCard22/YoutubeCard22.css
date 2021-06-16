@@ -1,0 +1,43 @@
+.address-1 {
+  color: var(--dark-grey);
+  height: 21px;
+  left: 0;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+.group-162 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 4px;
+  min-width: 306px;
+}
+.overlap-group1-1 {
+  height: 79px;
+  position: relative;
+  width: 304px;
+}
+.text {
+  color: var(--black);
+  font-weight: 800;
+  height: 60px;
+  left: 0;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 304px;
+}
+.youtube-card {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 290px;
+  position: relative;
+  width: 302px;
+}
+.youtube-card.youtube-card-1 {
+  margin-left: 24px;
+}

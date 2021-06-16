@@ -1,0 +1,231 @@
+.about-us {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  min-height: 24px;
+  min-width: 164px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+  width: 164px;
+}
+.blogs {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  min-height: 24px;
+  min-width: 164px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+  width: 164px;
+}
+.fa-qs {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  margin-left: 6px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.0px;
+  min-height: 143px;
+  width: 16px;
+}
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+  min-height: 150px;
+  width: 280px;
+}
+.flex-col-item {
+  color: var(--white);
+  height: 24px;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 8px;
+  min-width: 334px;
+}
+.flex-row-1 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  margin-right: 0.26px;
+  min-width: 628px;
+  position: relative;
+}
+.flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 198px;
+  margin-top: 53px;
+  min-width: 672px;
+}
+.flex-row-3 {
+  align-items: center;
+  display: flex;
+  height: 150px;
+  margin-top: 24px;
+  min-width: 304px;
+}
+.flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 24px;
+  min-width: 334px;
+}
+.footer {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 331px;
+  mix-blend-mode: normal;
+  padding: 23.7px 26px;
+  width: 768px;
+}
+.gallery {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  min-height: 24px;
+  min-width: 164px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+  width: 164px;
+}
+.group-147 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 136px;
+  width: 346px;
+}
+.group-32 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 198px;
+  width: 310px;
+}
+.group-85-1 {
+  height: 22px;
+  margin-left: 7px;
+  margin-top: 0.09px;
+  width: 117px;
+}
+.knowledge-transfer {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  margin-left: 6px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.mail {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  margin-top: 25px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 1.0px 0;
+  width: 16px;
+}
+.map-pin-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 0 1px;
+  width: 16px;
+}
+.overlap-group1-3 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 18px;
+  margin-top: -1.0px;
+  min-width: 14px;
+  padding: 4.2px 4px;
+}
+.overlap-group2 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 14px;
+  min-width: 16px;
+  padding: 1.8px 0;
+}
+.phone {
+  background-size: 100% 100%;
+  height: 16px;
+  margin-top: 70px;
+  mix-blend-mode: normal;
+  width: 16px;
+}
+.place {
+  color: var(--white);
+  font-weight: 800;
+  height: 24px;
+  line-height: 30px;
+  margin-bottom: -6px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.projects {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  margin-left: 6px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.quick-links {
+  color: var(--white);
+  font-weight: 800;
+  height: 24px;
+  line-height: 30px;
+  margin-bottom: -6px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-12 {
+  color: var(--white);
+  line-height: 24px;
+  min-height: 70px;
+  mix-blend-mode: normal;
+  width: 280px;
+}
+.vector-5 {
+  height: 32px;
+  mix-blend-mode: normal;
+  width: 49px;
+}
+.vector-6 {
+  height: 7px;
+  width: 6px;
+}
+.vector-7 {
+  height: 7px;
+  width: 16px;
+}

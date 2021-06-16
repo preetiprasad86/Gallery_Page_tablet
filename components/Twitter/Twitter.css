@@ -1,0 +1,15 @@
+.twitter {
+  align-items: flex-end;
+  display: flex;
+  height: 16px;
+  margin-left: 24px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 1.0px 0;
+  width: 16px;
+}
+.vector-10 {
+  height: 14px;
+  mix-blend-mode: normal;
+  width: 16px;
+}

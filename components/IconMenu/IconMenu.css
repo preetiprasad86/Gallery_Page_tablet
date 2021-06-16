@@ -1,0 +1,19 @@
+.icon-menu {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 390px;
+  mix-blend-mode: normal;
+  padding: 12px 0;
+  width: 40px;
+}
+.vector-1 {
+  height: 4px;
+  margin-top: 2px;
+  width: 22px;
+}
+.vector-2 {
+  height: 4px;
+  width: 22px;
+}

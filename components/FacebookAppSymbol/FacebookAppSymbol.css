@@ -1,0 +1,12 @@
+.f-1 {
+  height: 16px;
+  mix-blend-mode: normal;
+  width: 10px;
+}
+.facebook-app-symbol {
+  align-items: flex-start;
+  display: flex;
+  mix-blend-mode: normal;
+  padding: 0 3.0px;
+  width: 16px;
+}
